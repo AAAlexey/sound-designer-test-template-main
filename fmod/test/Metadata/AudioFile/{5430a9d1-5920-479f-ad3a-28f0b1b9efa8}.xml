@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{5430a9d1-5920-479f-ad3a-28f0b1b9efa8}">
+		<property name="assetPath">
+			<value>rain.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.8587755102040813</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{04cdf65c-f1ae-4690-95d0-787f44be08fd}</destination>
+		</relationship>
+	</object>
+</objects>
