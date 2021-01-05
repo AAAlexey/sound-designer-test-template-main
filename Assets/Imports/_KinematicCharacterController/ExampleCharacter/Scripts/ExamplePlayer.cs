@@ -19,6 +19,8 @@ namespace KinematicCharacterController.Examples
 
         private void Start()
         {
+            
+            Debug.Log("Example Playe script started");
             Cursor.lockState = CursorLockMode.Locked;
 
             // Tell camera to follow transform
